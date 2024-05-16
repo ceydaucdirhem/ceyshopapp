@@ -3,7 +3,10 @@
 ----------------------------------------------------------------------------------------------------------------
 
 # CeyShopp App's ScreenShots
-![Home Page Screen](![homescreen](https://github.com/ceydaucdirhem/ceyshopapp/assets/80065036/a73c190e-3d56-4ac8-a5f4-485a8dc538f9)
+| Login/SignUp Page Screen | Home/Search Page Screen |
+| ------------- | ------------- |
+| ![loginscreen](https://github.com/ceydaucdirhem/ceyshopapp/assets/80065036/d2ca0ce0-7ee1-4b57-8e0f-eb31f69ba63c)| Content Cell  |
+| Content Cell  | Content Cell  |
 
 
 # How to run the this project?
