@@ -10,8 +10,13 @@
 
 | Login Screen  | Sign Up Screen |
 | ------------- | ------------- |
-|![loginscreen](https://github.com/ceydaucdirhem/ceyshopapp/assets/80065036/08ddefc6-21e4-4fac-b030-d3fc0400882d)| ![signupscreen](https://github.com/ceydaucdirhem/ceyshopapp/assets/80065036/b3a6a85b-208a-4808-b471-0904eb666fdd)
-  |
+| ![3](https://github.com/ceydaucdirhem/ceyshopapp/assets/80065036/fb917a34-5972-44c3-aa14-bf4166b41993)|![4](https://github.com/ceydaucdirhem/ceyshopapp/assets/80065036/60dd7732-6caa-4356-8065-bd768c472e32)|
+
+
+| Product detail page  | Shopping cart page |
+| ------------- | ------------- |
+|![5](https://github.com/ceydaucdirhem/ceyshopapp/assets/80065036/a9b4db4b-1e95-4135-9448-52e2169925d1)| ![6](https://github.com/ceydaucdirhem/ceyshopapp/assets/80065036/c5f35b79-6d6b-4ade-813f-b917053d9ee8) |
+
 
   
  
