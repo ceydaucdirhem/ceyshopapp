@@ -26,6 +26,15 @@
 
 
 
+# How to run apk file ?
+
+      First step:
+  •	Download the file named Ceyshop.apk above , active all apk application download permissions on your android device phone and open the downloaded file comfortably 🙂 
+
+
+
+
+
 
 
 
