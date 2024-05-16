@@ -18,6 +18,11 @@
 |![5](https://github.com/ceydaucdirhem/ceyshopapp/assets/80065036/a9b4db4b-1e95-4135-9448-52e2169925d1)| ![6](https://github.com/ceydaucdirhem/ceyshopapp/assets/80065036/c5f35b79-6d6b-4ade-813f-b917053d9ee8) |
 
 
+| Place Order Screen  | Place Order Complated Screen |
+| ------------- | ------------- |
+| ![7](https://github.com/ceydaucdirhem/ceyshopapp/assets/80065036/7341fb6c-802f-46d1-a444-460137062638)| ![8](https://github.com/ceydaucdirhem/ceyshopapp/assets/80065036/598a8811-c005-4084-a34b-30c72ca7ee2e) |
+
+
   
  
 
