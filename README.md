@@ -3,12 +3,12 @@
 ----------------------------------------------------------------------------------------------------------------
 
 # CeyShopp App's ScreenShots
-| Login/SignUp Page Screen | Home/Search Page Screen |
+| Home Page Screen | Search Page Screen|
 | ------------- | ------------- |
-| ![loginscreen](https://github.com/ceydaucdirhem/ceyshopapp/assets/80065036/d2ca0ce0-7ee1-4b57-8e0f-eb31f69ba63c)| ![homescreen](https://github.com/ceydaucdirhem/ceyshopapp/assets/80065036/5bacb812-5afc-40b7-9d3b-fcde7c6e2ad0) |
-  
-|![signupscreen](https://github.com/ceydaucdirhem/ceyshopapp/assets/80065036/36415fc4-b4ce-4622-8eb9-ba781efc101e)| 
-|![searchscreen](https://github.com/ceydaucdirhem/ceyshopapp/assets/80065036/5d9af2ea-736e-48cd-a068-9a03f87633ed) |
+| ![homescreen](https://github.com/ceydaucdirhem/ceyshopapp/assets/80065036/a8432c6e-1cdb-487b-ad6c-d8d33475ced7)
+  | ![searchscreen](https://github.com/ceydaucdirhem/ceyshopapp/assets/80065036/2abcd8ed-2420-450e-8cd3-444fc76e3e0f)
+  |
+| Content Cell  | Content Cell  |
 
 
 # How to run the this project?
